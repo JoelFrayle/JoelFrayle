@@ -43,7 +43,7 @@ I’m looking to:
 Though these ideas are at an early stage, I’m eager to **gain practical experience** and collaborate with teams committed to healthcare innovation and personalized medicine.
 
 ---
-🧑‍💻 Past University Projects
+## 🧑‍💻 Past University Projects
 In addition to my future goals, I have a history of working on several projects during my academic journey that have laid the foundation for my current pursuits. You can explore these past projects in more detail in the repository below, where I’ve shared some of my previous work related to bioinformatics, computational genomics, and mathematical modeling.
 
 Check out my [Past Projects Repository](https://github.com/JoelFrayle/university_projects), where you’ll find:
