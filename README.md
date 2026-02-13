@@ -43,15 +43,27 @@ I’m looking to:
 Though these ideas are at an early stage, I’m eager to **gain practical experience** and collaborate with teams committed to healthcare innovation and personalized medicine.
 
 ---
-## 🧑‍💻 Past University Projects
-In addition to my future goals, I have a history of working on several projects during my academic journey that have laid the foundation for my current pursuits. You can explore these past projects in more detail in the repository below, where I’ve shared some of my previous work related to bioinformatics, computational genomics, and mathematical modeling.
+## 🧑‍💻 University Projects
 
-Check out my [Past Projects Repository](https://github.com/JoelFrayle/university_projects), where you’ll find:
+### MSc — Bioinformatics for Computational Genomics (UniMi / Politecnico di Milano)
 
-Computational Models: Models used to simulate biological processes, including cell growth and protein interactions.
-Data Analysis: Projects involving large-scale datasets, focusing on genomics, transcriptomics, and other biological data.
-Collaborative Work: Contributions to group projects that combined multiple disciplines and tackled real-world challenges.
-These past projects showcase my practical knowledge and the skills I’ve developed over the years, as well as my commitment to continuous learning and improvement in these fields.
+**Advanced-Genomics** — *Project 5: replication-driven copy-number variation detectable in RNA-seq.*  
+Circular regression on binned *E. coli* transcriptomic profiles, ori-anchored contrast (Δ_ori), directionality testing (Rayleigh + V-tests), and growth-rate prediction with cross-validation.  
+- Repo: https://github.com/JoelFrayle/Advanced-Genomics  
+- Interactive report (GitHub Pages): https://joelfrayle.github.io/Advanced-Genomics/
+
+**BCG2025_frayleMJ_mazzaF** — *Genomics & Transcriptomics (BCG 2025) — course/exam project work.*  
+Repository collecting course deliverables and code used during the MSc track (reports, scripts, and reproducible analyses).  
+- Repo: https://github.com/JoelFrayle/BCG2025_frayleMJ_mazzaF
+
+---
+
+### BEng — Biomedical Engineering (Universidad de los Andes, Colombia)
+
+I’ve been progressively recovering and documenting projects from my undergraduate training (biomedical engineering, mathematical modeling, and computational work).
+
+**university_projects** — curated collection of undergraduate projects (models, analyses, and collaborative work):  
+https://github.com/JoelFrayle/university_projects
 
 ---
 
