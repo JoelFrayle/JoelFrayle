@@ -50,10 +50,9 @@ Though these ideas are at an early stage, I’m eager to **gain practical experi
 **Advanced-Genomics** — *Project 5: replication-driven copy-number variation detectable in RNA-seq.*  
 Circular regression on binned *E. coli* transcriptomic profiles, ori-anchored contrast (Δ_ori), directionality testing (Rayleigh + V-tests), and growth-rate prediction with cross-validation.  
 - Repo: https://github.com/JoelFrayle/Advanced-Genomics  
-- Interactive report (GitHub Pages): https://joelfrayle.github.io/Advanced-Genomics/
 
-**BCG2025_frayleMJ_mazzaF** — *Genomics & Transcriptomics (BCG 2025) — course/exam project work.*  
-Repository collecting course deliverables and code used during the MSc track (reports, scripts, and reproducible analyses).  
+**Rare Disease Diagnosis from Trio Exome Data using Bowtie2, FreeBayes and VEP** — *Genomics & Transcriptomics (BCG 2025)*  
+Trio-based whole-exome variant calling and prioritization workflow using **Bowtie2 → FreeBayes → VEP**, with inheritance-model filtering (AD/AR) across 10 familial trios.
 - Repo: https://github.com/JoelFrayle/BCG2025_frayleMJ_mazzaF
 
 ---
