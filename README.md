@@ -61,8 +61,8 @@ Trio-based whole-exome variant calling and prioritization workflow using **Bowti
 
 I’ve been progressively recovering and documenting projects from my undergraduate training (biomedical engineering, mathematical modeling, and computational work).
 
-**university_projects** — curated collection of undergraduate projects (models, analyses, and collaborative work):  
-https://github.com/JoelFrayle/university_projects
+[**University Projects**](https://github.com/JoelFrayle/university_projects) — curated collection of undergraduate projects (models, analyses, and collaborative work):  
+
 
 ---
 
